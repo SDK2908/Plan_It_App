@@ -23,9 +23,13 @@
 - **State Management:** Provider / setState
 - **Version Control:** Git & GitHub
 
+
+Download the latest APK from the [Releases](https://github.com/SDK2908/Plan_It_App/releases) page.
+
 ## Installation
 ```bash
 git clone https://github.com/SDK2908/Plan_It_App.git
 cd Plan_It_App
 flutter pub get
 flutter run
+
