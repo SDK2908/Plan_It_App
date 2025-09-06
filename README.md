@@ -1,16 +1,31 @@
-# career_roadmap_app
+# Plan It App
 
-A new Flutter project.
+![Flutter](https://img.shields.io/badge/Flutter-3.13.0-blue?logo=flutter&logoColor=white)
+![License](https://img.shields.io/github/license/SDK2908/Plan_It_App)
 
-## Getting Started
+**Plan It** is a Flutter-based productivity app to schedule tasks, manage routines, and track progress effectively.
 
-This project is a starting point for a Flutter application.
+## Features
+- Add, view, and delete tasks
+- Schedule tasks by date and time
+- Track completed tasks
+- Clean and minimal UI
+- Lightweight and fast
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
+![Home Screen](assets/screenshots/home.jpg)
+![Add Task](assets/screenshots/add_task.jpg)
+![Completed Task](assets/screenshots/completed_task.jpg)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Tech Stack
+- **Frontend:** Flutter, Dart
+- **Backend:** Firebase (optional)
+- **State Management:** Provider / setState
+- **Version Control:** Git & GitHub
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Installation
+```bash
+git clone https://github.com/SDK2908/Plan_It_App.git
+cd Plan_It_App
+flutter pub get
+flutter run
